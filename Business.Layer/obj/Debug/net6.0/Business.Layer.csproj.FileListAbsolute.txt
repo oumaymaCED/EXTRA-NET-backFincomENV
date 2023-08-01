@@ -1,0 +1,17 @@
+C:\Users\oumayma.khemissi\Desktop\EnvironFincom\FincomEnv\Business.Layer\bin\Debug\net6.0\Business.Layer.deps.json
+C:\Users\oumayma.khemissi\Desktop\EnvironFincom\FincomEnv\Business.Layer\bin\Debug\net6.0\Business.Layer.dll
+C:\Users\oumayma.khemissi\Desktop\EnvironFincom\FincomEnv\Business.Layer\bin\Debug\net6.0\Business.Layer.pdb
+C:\Users\oumayma.khemissi\Desktop\EnvironFincom\FincomEnv\Business.Layer\bin\Debug\net6.0\DataAccess.Layer.dll
+C:\Users\oumayma.khemissi\Desktop\EnvironFincom\FincomEnv\Business.Layer\bin\Debug\net6.0\System.Reactive.dll
+C:\Users\oumayma.khemissi\Desktop\EnvironFincom\FincomEnv\Business.Layer\bin\Debug\net6.0\DataAccess.Layer.pdb
+C:\Users\oumayma.khemissi\Desktop\EnvironFincom\FincomEnv\Business.Layer\bin\Debug\net6.0\System.Reactive.xml
+C:\Users\oumayma.khemissi\Desktop\EnvironFincom\FincomEnv\Business.Layer\obj\Debug\net6.0\Business.Layer.csproj.AssemblyReference.cache
+C:\Users\oumayma.khemissi\Desktop\EnvironFincom\FincomEnv\Business.Layer\obj\Debug\net6.0\Business.Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oumayma.khemissi\Desktop\EnvironFincom\FincomEnv\Business.Layer\obj\Debug\net6.0\Business.Layer.AssemblyInfoInputs.cache
+C:\Users\oumayma.khemissi\Desktop\EnvironFincom\FincomEnv\Business.Layer\obj\Debug\net6.0\Business.Layer.AssemblyInfo.cs
+C:\Users\oumayma.khemissi\Desktop\EnvironFincom\FincomEnv\Business.Layer\obj\Debug\net6.0\Business.Layer.csproj.CoreCompileInputs.cache
+C:\Users\oumayma.khemissi\Desktop\EnvironFincom\FincomEnv\Business.Layer\obj\Debug\net6.0\Business.Layer.csproj.CopyComplete
+C:\Users\oumayma.khemissi\Desktop\EnvironFincom\FincomEnv\Business.Layer\obj\Debug\net6.0\Business.Layer.dll
+C:\Users\oumayma.khemissi\Desktop\EnvironFincom\FincomEnv\Business.Layer\obj\Debug\net6.0\refint\Business.Layer.dll
+C:\Users\oumayma.khemissi\Desktop\EnvironFincom\FincomEnv\Business.Layer\obj\Debug\net6.0\Business.Layer.pdb
+C:\Users\oumayma.khemissi\Desktop\EnvironFincom\FincomEnv\Business.Layer\obj\Debug\net6.0\ref\Business.Layer.dll

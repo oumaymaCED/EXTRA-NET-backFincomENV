@@ -1,0 +1,17 @@
+C:\Users\oumayma.khemissi\Desktop\EnvironFincom\FincomEnv\DataAccess.Layer\bin\Debug\net6.0\DataAccess.Layer.deps.json
+C:\Users\oumayma.khemissi\Desktop\EnvironFincom\FincomEnv\DataAccess.Layer\bin\Debug\net6.0\DataAccess.Layer.runtimeconfig.json
+C:\Users\oumayma.khemissi\Desktop\EnvironFincom\FincomEnv\DataAccess.Layer\bin\Debug\net6.0\DataAccess.Layer.dll
+C:\Users\oumayma.khemissi\Desktop\EnvironFincom\FincomEnv\DataAccess.Layer\bin\Debug\net6.0\DataAccess.Layer.pdb
+C:\Users\oumayma.khemissi\Desktop\EnvironFincom\FincomEnv\DataAccess.Layer\bin\Debug\net6.0\System.Reactive.dll
+C:\Users\oumayma.khemissi\Desktop\EnvironFincom\FincomEnv\DataAccess.Layer\bin\Debug\net6.0\System.Reactive.xml
+C:\Users\oumayma.khemissi\Desktop\EnvironFincom\FincomEnv\DataAccess.Layer\obj\Debug\net6.0\DataAccess.Layer.csproj.AssemblyReference.cache
+C:\Users\oumayma.khemissi\Desktop\EnvironFincom\FincomEnv\DataAccess.Layer\obj\Debug\net6.0\DataAccess.Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oumayma.khemissi\Desktop\EnvironFincom\FincomEnv\DataAccess.Layer\obj\Debug\net6.0\DataAccess.Layer.AssemblyInfoInputs.cache
+C:\Users\oumayma.khemissi\Desktop\EnvironFincom\FincomEnv\DataAccess.Layer\obj\Debug\net6.0\DataAccess.Layer.AssemblyInfo.cs
+C:\Users\oumayma.khemissi\Desktop\EnvironFincom\FincomEnv\DataAccess.Layer\obj\Debug\net6.0\DataAccess.Layer.csproj.CoreCompileInputs.cache
+C:\Users\oumayma.khemissi\Desktop\EnvironFincom\FincomEnv\DataAccess.Layer\obj\Debug\net6.0\DataAccess.Layer.csproj.CopyComplete
+C:\Users\oumayma.khemissi\Desktop\EnvironFincom\FincomEnv\DataAccess.Layer\obj\Debug\net6.0\DataAccess.Layer.dll
+C:\Users\oumayma.khemissi\Desktop\EnvironFincom\FincomEnv\DataAccess.Layer\obj\Debug\net6.0\refint\DataAccess.Layer.dll
+C:\Users\oumayma.khemissi\Desktop\EnvironFincom\FincomEnv\DataAccess.Layer\obj\Debug\net6.0\DataAccess.Layer.pdb
+C:\Users\oumayma.khemissi\Desktop\EnvironFincom\FincomEnv\DataAccess.Layer\obj\Debug\net6.0\DataAccess.Layer.genruntimeconfig.cache
+C:\Users\oumayma.khemissi\Desktop\EnvironFincom\FincomEnv\DataAccess.Layer\obj\Debug\net6.0\ref\DataAccess.Layer.dll
